@@ -143,6 +143,7 @@ To add your index.txt file, run following command:
 
     git add index.txt
 
+testing
 To stage all files in the current directory and subdirectory, we can use following command:
 
     git add .
